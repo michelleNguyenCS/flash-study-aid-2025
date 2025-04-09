@@ -1,0 +1,46 @@
+Title;Description;Text;DateCreated;DateAccessed
+CPS406 Notes
+Module 13 and 14 Review
+TextStart:
+DIFFERENT WAYS OF TESTING
+Clear (glass) box testing - testers can see the code and test boundaries
+Black (opaque) box testing - testers cannot see the code being tested
+TextEnd:
+Sun Feb 16 22:15:00 EST 2025
+Mon Apr 07 19:29:23 EDT 2025
+
+Title;Description;Text;DateCreated;DateAccessed
+CPS506 Notes
+
+TextStart:
+The course will explore four languages: SmallTalk, Elixir, Haskell, Rust.
+
+SMALLTALK
+Communication in SmallTalk is expressed via messages.
+
+ELIXIR
+Tail-recursion should be used within Elixir.
+
+HASKELL
+In Haskell, every function is pure.
+
+RUST
+The syntax of Rust is similar to C and C++.
+TextEnd:
+Sat Mar 01 09:00:00 EST 2025
+Mon Apr 07 21:21:53 EDT 2025
+
+Title;Description;Text;DateCreated;DateAccessed
+CPS590 Notes
+Test 1 Review
+TextStart:
+There are 4 connected structural elements that achieve the main functions of the computer:
+
+1. Processor		controls operations like data processing functions
+2. Main Memory	stores data and programs
+3. I/O Modules		exchanges data between the computer and externals
+4. System Bus		connects the previous stated elements ^
+TextEnd:
+Sat Feb 08 10:20:00 EST 2025
+Mon Apr 07 19:30:40 EDT 2025
+

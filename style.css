@@ -1,0 +1,13 @@
+/*
+[ FlashStudyAid ] : Style Sheet
+
+@author Michelle Nguyen
+@version 2024-04-04
+*/
+
+/* Tab - Increase size of tab labels */
+.tab-pane { -fx-font-size: 24px; }
+
+/* Table */
+.table-view .column-header { -fx-font-size: 14px; }
+.table-view .table-cell { -fx-font-size: 14px; }

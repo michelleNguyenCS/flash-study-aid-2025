@@ -1,0 +1,69 @@
+Title;Description;Flashcards;DateCreated;DateAccessed
+Elementary Math
+
+FlashcardStart:
+What is 15/3?
+5
+1
+What is 25/5?
+5
+1
+What is 9-1?
+8
+2
+What is 12-4?
+8
+2
+What is 3+3?
+6
+3
+What is 7+7?
+14
+3
+FlashcardEnd:
+Tue Apr 01 00:00:00 EDT 2025
+Wed Apr 09 07:40:42 EDT 2025
+
+Title;Description;Flashcards;DateCreated;DateAccessed
+CPS406
+Module 13 and 14
+FlashcardStart:
+What is the difference between glass box and black box testing? 
+being able to see the code
+1
+What is glass box testing?
+testing with the ability to see the code being tested
+2
+What is black box testing?
+testing without seeing the code being tested
+2
+What is glass box testing also known as?
+clear
+3
+What is black box testing also known as?
+opaque
+3
+FlashcardEnd:
+Sun Feb 16 22:30:00 EST 2025
+Mon Apr 07 19:38:38 EDT 2025
+
+Title;Description;Flashcards;DateCreated;DateAccessed
+CPS506 Review
+
+FlashcardStart:
+How is communication in SmallTalk expressed?
+Through messages.
+1
+What kind of recursion is preferred in Elixir?
+Tail-Recursion
+2
+What kind of language is Haskell?
+Purely functional.
+1
+What languages have similar Syntax to Rust?
+C and C++
+3
+FlashcardEnd:
+Sat Mar 01 09:10:00 EST 2025
+Mon Apr 07 21:20:31 EDT 2025
+
